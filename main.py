@@ -7,7 +7,7 @@ def test():
 
 app = QApplication([])
 win = QWidget()
-
+#бебра
 line = QVBoxLayout()
 
 text = QLabel()
